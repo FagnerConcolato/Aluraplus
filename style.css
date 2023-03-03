@@ -172,11 +172,11 @@ border: 1px solid gold
 }
 
 .botao_secundario:hover {
-    background-color: gold;
+    background-color: rgb(255, 136, 0);
 }
 
 .conteiner__botao:hover {
-    background-color: gold;
+    background-color: rgb(255, 136, 0);
 
 }
 
